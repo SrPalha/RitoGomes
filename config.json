@@ -1,0 +1,8 @@
+{
+    "token": "tokendiscord", 
+    "riotapi": "riotapi",
+    "prefix": "!",
+    "everyoneMention": true,
+    "copyright": "RitoGomes",
+    "hostedBy": true
+  }
